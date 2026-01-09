@@ -1,9 +1,9 @@
 
 const CUSTOMER_SITES = {
-    qiqi: {
-        api: 'https://www.qiqidys.com/api.php/provide/vod',
-        name: '七七资源',
-    },
+    // qiqi: {
+    //     api: 'https://www.qiqidys.com/api.php/provide/vod',
+    //     name: '七七资源',
+    // },
     hongniu: {
         api: 'http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8',
         name: '紅牛資源',
@@ -20,10 +20,10 @@ const CUSTOMER_SITES = {
     //     api: 'http://api.1080zyku.com/inc/api.php/provide/vod',
     //     name: '优质资源库',
     // },
-    sijiuyingshi: {
-        api: 'http://39kan.com/api.php/provide/vod',
-        name: '39影視',
-    },
+    // sijiuyingshi: {
+    //     api: 'http://39kan.com/api.php/provide/vod',
+    //     name: '39影視',
+    // },
     tiantang: {
         api: 'http://vipmv.cc/api.php/provide/vod',
         name: '天堂资源',
@@ -32,10 +32,10 @@ const CUSTOMER_SITES = {
         api: 'http://lehootv.com/api.php/provide/vod',
         name: '乐活影视',
     },
-    tangrenjie: {
-        api: 'http://tangrenjie.tv/api.php/provide/vod',
-        name: '唐人街',
-    },
+    // tangrenjie: {
+    //     api: 'http://tangrenjie.tv/api.php/provide/vod',
+    //     name: '唐人街',
+    // },
     // kudian: {
     //     api: 'http://api.kuapi.cc/api.php/provide/vod',
     //     name: '酷点资源',
@@ -44,14 +44,10 @@ const CUSTOMER_SITES = {
         api: 'http://collect.wolongzyw.com/api.php/provide/vod',
         name: '卧龙资源',
     },
-    // kudian2: {
-    //     api: 'http://kudian10.com/api.php/provide/vod',
-    //     name: '酷点资源',
+    // tangrenjie2: {
+    //     api: 'http://tangrenjie.tv/api.php/provide/vod/at/xm',
+    //     name: '唐人街',
     // },
-    tangrenjie2: {
-        api: 'http://tangrenjie.tv/api.php/provide/vod/at/xm',
-        name: '唐人街',
-    },
     senlin: {
         api: 'http://slapibf.com/api.php/provide/vod',
         name: '森林资源',
@@ -64,14 +60,14 @@ const CUSTOMER_SITES = {
     //     api: 'http://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8',
     //     name: '快车资源',
     // },
-    tantan: {
-        api: 'http://apittzy.com/api.php/provide/vod',
-        name: '探探资源',
-    },
-    shandian: {
-        api: 'http://sdzyapi.com/api.php/provide/vod/from/sdm3u8',
-        name: '閃電資源',
-    },
+    // tantan: {
+    //     api: 'http://apittzy.com/api.php/provide/vod',
+    //     name: '探探资源',
+    // },
+    // shandian: {
+    //     api: 'http://sdzyapi.com/api.php/provide/vod/from/sdm3u8',
+    //     name: '閃電資源',
+    // },
     jinying: {
         api: 'http://jyzyapi.com/provide/vod/from/jinyingm3u8',
         name: '金鹰资源',
@@ -80,10 +76,10 @@ const CUSTOMER_SITES = {
         api: 'http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8',
         name: '光速资源',
     },
-    aosika: {
-        api: 'http://aosikazy.com/api.php/provide/vod',
-        name: '奥斯卡资源网',
-    },
+    // aosika: {
+    //     api: 'http://aosikazy.com/api.php/provide/vod',
+    //     name: '奥斯卡资源网',
+    // },
     laoyaa: {
         api: 'http://api.apilyzy.com/api.php/provide/vod',
         name: '老鸭资源采集',
@@ -104,14 +100,14 @@ const CUSTOMER_SITES = {
     //     api: 'http://api.kuapi.cc/api.php/provide/vod',
     //     name: '酷点资源',
     // },
-    shandian2: {
-        api: 'http://sdzyapi.com/api.php/provide/vod',
-        name: '闪电资源',
-    },
-    feisu: {
-        api: 'http://feisuzy.com/api.php/provide/vod',
-        name: '飞速资源',
-    },
+    // shandian2: {
+    //     api: 'http://sdzyapi.com/api.php/provide/vod',
+    //     name: '闪电资源',
+    // },
+    // feisu: {
+    //     api: 'http://feisuzy.com/api.php/provide/vod',
+    //     name: '飞速资源',
+    // },
     // kuaiBo: {
     //     api: 'http://www.kuaibozy.com/api.php/provide/vod',
     //     name: '快播资源',
@@ -124,10 +120,10 @@ const CUSTOMER_SITES = {
         api: 'http://lovedan.net/api.php/provide/vod',
         name: '艾旦影视',
     },
-    piaohua: {
-        api: 'http://www.zzrhgg.com/api.php/provide/vod',
-        name: '飘花电影',
-    },
+    // piaohua: {
+    //     api: 'http://www.zzrhgg.com/api.php/provide/vod',
+    //     name: '飘花电影',
+    // },
     // wangmin: {
     //     api: 'http://prinevillesda.org/api.php/provide/vod',
     //     name: '网民电影',
