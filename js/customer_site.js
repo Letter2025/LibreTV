@@ -1,4 +1,3 @@
-
 const CUSTOMER_SITES = {
     // qiqi: {
     //     api: 'https://www.qiqidys.com/api.php/provide/vod',
@@ -172,10 +171,10 @@ const CUSTOMER_SITES = {
     //     api: 'https://api.niuniuzy.me/api.php/provide/vod/',
     //     name: '牛牛|点播',
     // },
-    yaya: {
-        api: 'https://cj.yayazy.net/api.php/provide/vod/',
-        name: '丫丫|点播',
-    },
+    // yaya: {
+    //     api: 'https://cj.yayazy.net/api.php/provide/vod/',
+    //     name: '丫丫|点播',
+    // },
     uku2: {
         api: 'https://api.ukuapi.com/api.php/provide/vod/',
         name: 'U酷|点播',
@@ -248,10 +247,10 @@ const CUSTOMER_SITES = {
     //     api: 'http://www.ahjiuman.com/api.php/provide/vod/at/json',
     //     name: '飘花|点播',
     // },
-    tianyi: {
-        api: 'https://www.911ysw.top/tianyi.php/provide/vod/',
-        name: '天翼|点播',
-    },
+    // tianyi: {
+    //     api: 'https://www.911ysw.top/tianyi.php/provide/vod/',
+    //     name: '天翼|点播',
+    // },
     // huya: {
     //     api: 'https://www.huyaapi.com/api.php/provide/vod/',
     //     name: '虎牙|点播',
